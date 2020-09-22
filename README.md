@@ -1,4 +1,4 @@
-# CoronaVirus-Statistics-App    <img src="https://emojis.slackmojis.com/emojis/images/1579382915/7563/discordbot.png?1579382915"  width="35" height="35" />
+# CoronaVirus-Statistics-App    <img src="https://emojis.slackmojis.com/emojis/images/1584117954/8085/coronavirus.gif?1584117954"  width="35" height="35" />
 
 A real-time statistics Application  ,with interactive maps and tweets from MoHFW &amp; WHO built using google sites
  
